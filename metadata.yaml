@@ -1,0 +1,28 @@
+_repo: A-Christmas-Hamper-A-Volume-of-Pictures-and-Stories-for-Little-Folks_53299
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2016-10-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53299'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s poetry'
+- !lcsh 'Children''s stories'
+- !lcc 'PZ'
+- GITenberg
+tableOfContents: A very naughty little person -- Poor Uncle Tom -- A snow man -- Not
+  such fun as it seemed -- On the sands -- Old clothes -- The little tiny thing --
+  Questions/Answers -- A lesson in manners -- The prize boat -- The little thief in
+  the pantry -- Great-grandmother's wish.
+title: 'A Christmas Hamper: A Volume of Pictures and Stories for Little Folks'
+url: http://www.gutenberg.org/ebooks/53299
